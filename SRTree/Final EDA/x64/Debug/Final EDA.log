@@ -1,0 +1,11 @@
+﻿  Final EDA.cpp
+  Point.cpp
+  SRTree.cpp
+c:\users\luis\desktop\final eda\final eda\srtree.cpp(18): error C2664: 'float euclidean(Point,Point)': el argumento 1 no puede convertirse de 'std::vector<float,std::allocator<_Ty>>' a 'Point'
+          with
+          [
+              _Ty=float
+          ]
+  c:\users\luis\desktop\final eda\final eda\srtree.cpp(18): note: No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+  Space.cpp
+  Generando código...
